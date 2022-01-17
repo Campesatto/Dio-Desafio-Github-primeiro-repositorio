@@ -1,0 +1,39 @@
+Nesta aula, aprendemos a utilizar os comandos básicos do GitBASH que são:
+
+- Git Status : verificar as pastas dentro do disco local cd
+
+- Git add . : adicionar um arquivo/pasta 
+
+- Git commit -m "colocar sempre comentários coerentes aqui" : commit local
+
+- Git push origin main : encaminhando seu arquivo/pasta para seu GitHub em nuvem
+
+
+Dessa forma, eu criei meu primeiro repositório no desafio do curso.
+
+Para a próxima etapa vou destacar aqui meus próximos desafios abordados no Curso em Java.
+
+E mostrar todo o meu progresso durante o curso.
+
+- Lógica de Programação (Concluído)
+- Estrutura de Dados e Algoritmos (Concluído)
+- Criando seu Primeiro Repositório no GitHub
+- Introdução ao Ecossistema e Documentação Java
+- Dominando IDEs Java
+- Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+- Entendendo Métodos Java
+- Lógica Condicional e Controle de Fluxos em Java
+- Estrutura de Repetição e Arrays em Java
+- Desáfios Iniciais
+- Programação orientada a Objetos
+- Desáfios Básicos
+- Criando um Banco Digital com Java e Orientação a Objetos
+- Debugging Java
+- Tratamento de Exceções em Java
+- Trabalhando com Collections Java
+- Desafios
+- Abstraindo um Bootcamp Usando Orientação a Objetos em Java
+- Introdução ao HTTP/HTTPS
+- Simplificando Projetos Java com o Spring Boot
+- Desafios Intermediários
+- Explorando Padrões de Projetos na Prática com Java
