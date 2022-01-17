@@ -17,7 +17,7 @@ E mostrar todo o meu progresso durante o curso.
 
 - Lógica de Programação (Concluído)
 - Estrutura de Dados e Algoritmos (Concluído)
-- Criando seu Primeiro Repositório no GitHub
+- Criando seu Primeiro Repositório no GitHub (Concluído)
 - Introdução ao Ecossistema e Documentação Java
 - Dominando IDEs Java
 - Variáveis, Tipos de Dados e Operadores Matemáticos em Java
