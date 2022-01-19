@@ -1,5 +1,15 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git
 
+Nesta aula, aprendemos a utilizar os comandos básicos do GitBASH que são:
+
+- Git Status : verificar as pastas dentro do disco local cd
+
+- Git add . : adicionar um arquivo/pasta 
+
+- Git commit -m "colocar sempre comentários coerentes aqui" : commit local
+
+- Git push origin main : encaminhando seu arquivo/pasta para seu GitHub em nuvem
+
 
 
